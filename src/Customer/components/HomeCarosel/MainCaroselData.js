@@ -1,6 +1,6 @@
 export const mainCarouselData = [
     {
-        image: "https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/0/10_5.jpg",
+        image: "https://n.nordstrommedia.com/id/sr3/16554823-8eb1-4c73-aec9-8c22e59e34ea.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
         path: "/women/clothing/lengha_choli"
     },
     {
